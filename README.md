@@ -8,7 +8,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](novatorem.malik4444-aqua.vercel.app)](https://open.spotify.com/user/obiiiito)
+[![Spotify](https://novatorem-bcogibbqo.vercel.app/)](https://open.spotify.com/user/obiiiito)
 
 ### Connect with me:
 
