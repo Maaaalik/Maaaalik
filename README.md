@@ -8,7 +8,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="novatorem-tau-two.vercel.app" alt="Malik Spotify Playing" width="350" />](https://open.spotify.com/user/obiiiito)
+[![Spotify](https://malik4444-aqua.vercel.app/api/spotify)](https://open.spotify.com/user/obiiiito)
 
 ### Connect with me:
 
