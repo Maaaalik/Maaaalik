@@ -8,7 +8,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Malik Spotify Playing" width="350" />](https://open.spotify.com/user/obiiiito)
+[<img src="novatorem-tau-two.vercel.app" alt="Malik Spotify Playing" width="350" />](https://open.spotify.com/user/obiiiito)
 
 ### Connect with me:
 
