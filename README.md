@@ -14,7 +14,7 @@
 ### Connect with me:
 
 #
-Discord: Malik_#4444
+Discord: Mαlik#0702
 
 <br />
 
