@@ -2,7 +2,7 @@
 
 ## I'm a Student and a little Developer!!
 
-- 🌱 I’m currently learning JavaScript 🤣
+- 🌱 I’m currently learning JavaScript/Python 🤣
 - 👯 I want to be a great programmer
 - ⚡ Fun fact: I love to watch anime and read manga
 
