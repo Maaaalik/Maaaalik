@@ -6,10 +6,6 @@
 [<img src="https://novatorem-bcogibbqo.vercel.app/api/spotify.py" alt="Malik Spotify Playing" width="350" />](https://open.spotify.com/user/obiiiito)
 
 
-### Connect with me:
-
-#
-Discord: Mαlik#0702
 
 <br />
 
