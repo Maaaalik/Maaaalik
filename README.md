@@ -1,11 +1,5 @@
 ### Hi there, I'm Malik👋
 
-## I'm a Student and a little Developer!!
-
-- 🌱 I’m currently learning JavaScript/Python 🤣
-- 👯 I want to be a great programmer
-- ⚡ Fun fact: I love to watch anime and read manga
-
 ### Spotify Playing 🎧
 
 [<img src="https://novatorem-bcogibbqo.vercel.app/api/spotify.py" alt="Malik Spotify Playing" width="350" />](https://open.spotify.com/user/obiiiito)
