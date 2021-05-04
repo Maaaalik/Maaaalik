@@ -1,5 +1,5 @@
 ### Hi there, I'm Malik👋
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Malik-4444&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /> </p>
 <br />
 
 ### Spotify Playing 🎧
@@ -26,8 +26,9 @@
   <summary>⚡ GitHub Stats</summary>
 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Malik-4444&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"  /> 
-  <br />
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushboogoel01&show_icons=true&locale=en" alt="khushboogoel01" /></p>
+  
+ <br />
+
   
 
 
