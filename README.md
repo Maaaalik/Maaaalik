@@ -1,4 +1,5 @@
 ### Hi there, I'm Malik👋
+<br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Malik-4444&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /> </p>
 <br />
 
@@ -29,7 +30,7 @@
   
  <br />
 
-  
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushboogoel01&show_icons=true&locale=en&layout=compact" alt="khushboogoel01" /></p>
 
 
 
