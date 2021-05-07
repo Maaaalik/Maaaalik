@@ -1,6 +1,6 @@
 ### Hi there, I'm Malik👋
 <br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Malik-4444&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Malik-4444&label=Profile%20views&color=129e00&style=plastic" alt="Malik-4444" /> </p>
 <br />
 
 ### Spotify Playing 🎧
