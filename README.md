@@ -21,7 +21,7 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongo]
 
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
-
+[<img align="left" alt="PyCharm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pycharm/pycharm.png" />][pycharm]
 <br />
 <br />
 
@@ -49,3 +49,4 @@
 [node]: https://nodejs.org/en/
 [mongo]: https://www.mongodb.com/en
 [python]: https://www.python.org/
+[pycharm]: https://www.jetbrains.com/en-en/pycharm/download/#section=windows
