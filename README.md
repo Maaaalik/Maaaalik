@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Malik-4444&label=Profile%20views&color=129e00&style=plastic" alt="Malik-4444" /> </p>
 <br />
 
-[![Mαlik#0702](https://img.shields.io/endpoint?label=currently&url=https://dev.discordprofiles.me/api/badge/status/744603004493365330?simple=true)](https://discordextremelist.xyz/en-NZ/users/422382504226324491)
+![Discord](https://discord.c99.nl/widget/theme-3/422382504226324491.png)
 
 
 ### Spotify Playing 🎧
