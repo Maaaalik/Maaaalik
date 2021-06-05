@@ -3,7 +3,7 @@
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Malik-4444&theme=dracula"></div>
 <br />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Malik-4444&color=blueviolet)&nbsp;&nbsp; ![Profile Followers](https://img.shields.io/badge/Followers-2-blueviolet)&nbsp;&nbsp; ![Profile Following](https://img.shields.io/badge/Following-2-blueviolet)&nbsp;&nbsp; ![Profile Stars](https://img.shields.io/badge/Stars-0-blueviolet) 
+![Profile Views](https://komarev.com/ghpvc/?username=Malik-4444&color=blueviolet)&nbsp;&nbsp; ![Profile Followers](https://img.shields.io/badge/Followers-3-blueviolet)&nbsp;&nbsp; ![Profile Following](https://img.shields.io/badge/Following-3-blueviolet)&nbsp;&nbsp; ![Profile Stars](https://img.shields.io/badge/Stars-1-blueviolet) 
 
 ![Discord](https://discord.c99.nl/widget/theme-3/422382504226324491.png)
 
