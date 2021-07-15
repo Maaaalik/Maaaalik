@@ -11,15 +11,11 @@
 ### Spotify Playing 🎧
 
 [<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="naviscode spotify playing" width="350" />]()
+<br />
 <a href="https://top.gg/bot/830114006349905961">
-  <img src="https://top.gg/api/widget/830114006349905961.svg" alt="Ayumi" />
-  </a><a href="https://top.gg/bot/830114006349905961">
   <img src="https://top.gg/api/widget/830114006349905961.svg" alt="Ayumi" />
   </a>
 
-
-
-<br />
 
 ### Languages and Tools:
 
