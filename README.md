@@ -7,11 +7,6 @@
 
 ![Discord](https://discord.c99.nl/widget/theme-3/422382504226324491.png)
 
-
-### Spotify Playing 🎧
-
-[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="naviscode spotify playing" width="350" />]()
-<br />
 <a href="https://top.gg/bot/830114006349905961">
   <img src="https://top.gg/api/widget/830114006349905961.svg" alt="Ayumi" />
   </a>
