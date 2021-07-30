@@ -1,6 +1,6 @@
 ### Hi there, I'm Malik👋
 <br />
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Malik-4444&theme=dracula"></div>
+![Malik's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=Malik-4444&theme=prussian&ring=DA61DD&dates=D3DDAD&fire=DD8D5D&sideLabels=DDD441&stroke=DD9D9D&sideNums=DDDDDD&currStreakNum=BADBDD&border=DDD38E&currStreakLabel=DDCD24)
 <br />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Malik-4444&color=blueviolet)&nbsp;&nbsp; ![Profile Followers](https://img.shields.io/badge/Followers-3-blueviolet)&nbsp;&nbsp; ![Profile Following](https://img.shields.io/badge/Following-3-blueviolet)&nbsp;&nbsp; ![Profile Stars](https://img.shields.io/badge/Stars-1-blueviolet) 
