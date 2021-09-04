@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Malik-4444&color=blueviolet)&nbsp;&nbsp; ![Profile Followers](https://img.shields.io/badge/Followers-3-blueviolet)&nbsp;&nbsp; ![Profile Following](https://img.shields.io/badge/Following-3-blueviolet)&nbsp;&nbsp; ![Profile Stars](https://img.shields.io/badge/Stars-1-blueviolet) 
 
-![Discord](https://discord.c99.nl/widget/theme-3/422382504226324491.png)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/422382504226324491?theme=dark&bg=242430&animated=true&idleMessage=Probably%20sleepingng%20right%20now..)](https://discord.com/users/422382504226324491)
 
 <a href="https://top.gg/bot/830114006349905961">
   <img src="https://top.gg/api/widget/830114006349905961.svg" alt="Ayumi" />
@@ -42,7 +42,6 @@
 </details>
 
 
-[Discord]: https://instagram.com/codeSTACKr
 [vsc]: https://code.visualstudio.com/
 [html]: https://www.w3schools.com/html/
 [css]: https://www.w3schools.com/css/default.asp
