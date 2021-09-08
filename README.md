@@ -31,11 +31,11 @@
 <details>
   <summary>⚡ GitHub Stats</summary>
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Malik-4444&count_private=true&show_icons=true&theme=radical"  /> 
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Malik-4444&count_private=true&show_icons=true&c=tokyonight"  /> 
   
  <br />
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malik-4444&show_icons=true&theme=radical" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malik-4444&show_icons=true&theme=tokyonight" /></p>
 
 
 
