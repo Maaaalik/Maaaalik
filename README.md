@@ -31,7 +31,7 @@
 <details>
   <summary>⚡ GitHub Stats</summary>
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Malik-4444&count_private=true&show_icons=true&c=tokyonight"  /> 
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Malik-4444&count_private=true&show_icons=true&theme=tokyonight"  /> 
   
  <br />
 
