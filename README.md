@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Malik-4444&color=blueviolet)&nbsp;&nbsp; ![Profile Followers](https://img.shields.io/badge/Followers-3-blueviolet)&nbsp;&nbsp; ![Profile Following](https://img.shields.io/badge/Following-3-blueviolet)&nbsp;&nbsp; ![Profile Stars](https://img.shields.io/badge/Stars-1-blueviolet) 
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/422382504226324491
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/734176332308676638
                             )](https://discord.com/users/734176332308676638)
 
 <a href="https://top.gg/bot/830114006349905961">
