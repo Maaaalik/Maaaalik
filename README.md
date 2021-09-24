@@ -4,7 +4,7 @@
 
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/422382504226324491
-                            )](https://discord.com/users/422382504226324491)
+                            )](https://discord.com/users/734176332308676638)
 
 <a href="https://top.gg/bot/830114006349905961">
   <img src="https://top.gg/api/widget/830114006349905961.svg" alt="Ayumi" />
