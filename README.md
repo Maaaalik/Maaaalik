@@ -6,10 +6,6 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/734176332308676638
                             )](https://discord.com/users/734176332308676638)
 
-<a href="https://top.gg/bot/891100730956607538">
-  <img src="https://top.gg/api/widget/891100730956607538.svg">
-</a>
-
 
 ### Languages and Tools:
 
