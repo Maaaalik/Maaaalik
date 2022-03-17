@@ -32,8 +32,7 @@
 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malik-4444&show_icons=true&theme=tokyonight" /></p>
 
-</details>
-<details>
+
 
 
 [vsc]: https://code.visualstudio.com/
