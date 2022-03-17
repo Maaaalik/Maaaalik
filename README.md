@@ -32,14 +32,15 @@
 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malik-4444&show_icons=true&theme=tokyonight" /></p>
 
-
-</details>
-
 # 🌸 My recent AniList activity
 
 <!-- ANILIST_ACTIVITY:start -->
 
 <!-- ANILIST_ACTIVITY:end -->
+  
+</details>
+
+
 
 [vsc]: https://code.visualstudio.com/
 [html]: https://www.w3schools.com/html/
