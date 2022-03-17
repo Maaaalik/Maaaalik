@@ -34,12 +34,6 @@
 
 </details>
 <details>
-  <summary>🌸 My recent AniList activity</summary>
-  
-<!-- ANILIST_ACTIVITY:start -->
-
-<!-- ANILIST_ACTIVITY:end -->
-</details>
 
 
 [vsc]: https://code.visualstudio.com/
