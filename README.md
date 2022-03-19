@@ -13,7 +13,7 @@
 <!-- Languages -->
 
 <details open>
-<summary>⚡ <b>Languages</b></summary>
+<summary>⚡ <b>Languages & Framework</b></summary>
 <p>
 
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -22,6 +22,11 @@
   [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
   [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/Css/)
   [![MongoDB](https://img.shields.io/badge/MongoDB/PostgreSQL-22e272?style=for-the-badge&logo=MongoDB&logoColor=white)](https://www.mongodb.com/)
+  [![Tailwind](https://img.shields.io/badge/Tailwind-4dc0b5?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+  [![Next.js](https://img.shields.io/badge/Next.js-181717?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+  [![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
+  [![React.js](https://img.shields.io/badge/React.js-42b883?style=for-the-badge&logo=React&logoColor=61DBFB)](https://vuejs.org/)
+  
 </p>
 </details>
 <!-- Software -->
