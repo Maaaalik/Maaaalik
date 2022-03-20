@@ -60,11 +60,10 @@
 </p>
 </details>
 
-
  <div align="center"> 
-  <!-- GitHub/Coding Stats -->
+  <!-- GitHub Stats -->
 
-  ### GitHub & Coding Stats
+  ### GitHub Stats
 
   <div align="center">
       <tr>
