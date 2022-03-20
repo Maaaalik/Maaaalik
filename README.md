@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hey, I'm Malik
-<img src="https://www.fernsehersatz.de/wp-content/uploads/2018/05/Motocross-Saito-hip-hop-pixelart-11.gif" align="right" width="auto" height="327">
+<img src="https://ai.github.io/size-limit/logo.svg" align="right" width="120" height="178">
 ### Some info about me
 
 - 🌱 I’m currently learning **C#**
