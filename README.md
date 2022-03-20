@@ -3,7 +3,7 @@
 
 ### Some info about me
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning: **C#**
 - 💞️ Favorite Languages: **Python, TypeScript**
 - 📫 How to reach me: [Discord](https://discord.com/users/734176332308676638)
 
