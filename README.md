@@ -1,5 +1,6 @@
 # <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hey, I'm Malik
-<img src="https://ai.github.io/size-limit/logo.svg" align="right" width="120" height="178">
+<img src="https://media3.giphy.com/media/cPZdap8PGhSvABr6xW/giphy.gif?cid=790b7611fa9ad3391a904a25beec6d374ce96cfb0885eae0&rid=giphy.gif&ct=g" align="right" width="auto" height="215">
+
 ### Some info about me
 
 - 🌱 I’m currently learning **C#**
