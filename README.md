@@ -1,15 +1,12 @@
 # <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hey, I'm Malik
-
+<img src="https://www.fernsehersatz.de/wp-content/uploads/2018/05/Motocross-Saito-hip-hop-pixelart-11.gif" align="right" width="auto" height="327">
 ### Some info about me
 
 - 🌱 I’m currently learning **C#**
 - 💞️ Favorite Languages: **Python, TypeScript**
 - 📫 How to reach me: [Discord](https://discord.com/users/734176332308676638)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/734176332308676638
-                            )](https://discord.com/users/734176332308676638)
-
-
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/734176332308676638)](https://discord.com/users/734176332308676638)
 <!-- Languages -->
 
 <details open>
