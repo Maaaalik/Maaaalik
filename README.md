@@ -14,7 +14,7 @@
 - 💞️ Favorite Languages: **Python, TypeScript**
 - 📫 How to reach me: [Discord](https://discord.com/users/734176332308676638)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/734176332308676638)](https://discord.com/users/734176332308676638)
+
 <!-- Languages -->
 
 <details open>
