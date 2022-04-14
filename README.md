@@ -67,6 +67,8 @@
 </p>
 </details>
 
+<img src="https://count.getloli.com/get/@Maaaalik?theme=rule34" />
+
  <div align="center"> 
   <!-- GitHub Stats -->
 
