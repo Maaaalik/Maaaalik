@@ -69,16 +69,6 @@
 
 
 
- <div align="center"> 
-  <!-- GitHub Stats -->
 
-  ### GitHub Stats
-
-  <div align="center">
-      <tr>
-        <td align="center" style="padding=0;width=50%;">
-          <a target="_blank" href="https://activity-graph.herokuapp.com/graph?username=Maaaalik&bg_color=0D1117&color=7E3ACE&line=7E3ACE&point=FFFFFF&hide_border=true"><img src="https://activity-graph.herokuapp.com/graph?username=Maaaalik&bg_color=0D1117&color=7E3ACE&line=7E3ACE&point=FFFFFF&hide_border=true" /></a>
-        </td>
-      </tr>
   
 
