@@ -10,7 +10,7 @@
 
 ### Some info about me
 
-- 🌱 I’m currently learning: **C#**
+- 🌱 I’m currently learning: **Java**
 - 💞️ Favorite Languages: **Python, TypeScript**
 - 📫 How to reach me: [Discord](https://discord.com/users/734176332308676638)
 
@@ -21,6 +21,7 @@
 <summary>⚡ <b>Languages & Framework</b></summary>
 <p>
 
+  [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/de-de/dotnet/csharp/)
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
   [![JavaScript](https://img.shields.io/badge/JavaScript-D8C31A?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com/)
